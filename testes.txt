@@ -1,4 +1,4 @@
-Qual é o nome do Reitor?|O nome do Reitor é Antonio José de Almeida Meirelles
+Quem é o reitor da unicamp?|Antonio José de Almeida Meirelles
 Quantas vagas regulares são distribuidas para ingresso nos cursos de graduação?|3340 vagas regulares são distribuídas para ingresso nos cursos de graduação.
 Quantas vagas serão distribuidas pelo enem?|314 vagas serão distribuídas pelo ENEM-Unicamp 2025.
 Quantas vagas serão oferecidas pelo vestibular indígena?|49 vagas serão oferecidas pelo Vestibular Indígena (VI) 2025.
