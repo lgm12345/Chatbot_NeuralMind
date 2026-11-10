@@ -1,0 +1,67 @@
+﻿Area,Curso,Prioritarias,NMO,Peso_3,Peso_2,Peso_1
+Ciências Humanas,Artes Cênicas (Integral) (A),HE; LPL,500,HE; LPL,-,MAT; HIST; GEO; INTER
+Ciências Humanas,Administração (Noturno) (B),LPL; MAT,400,LPL; MAT,HIS; GEO,INTER
+Ciências Humanas,Administração Pública (Noturno) (B),LPL; HIS,400,LPL; MAT; HIS; GEO,-,INTER
+Ciências Humanas,Arquitetura e Urbanismo (Noturno),MAT; LPL,500,MAT,-,LPL; INTER; HIS; GEO
+Ciências Humanas,Artes Visuais (Integral) (A),HE; HIS,500,HE; LPL; HIS; GEO,INTER,MAT
+Ciências Humanas,Ciências Econômicas (Integral),MAT; HIS,500,LPL; HIS; GEO; MAT,-,INTER
+Ciências Humanas,Ciências Econômicas (Noturno),MAT; HIS,500,LPL; HIS; GEO; MAT,-,INTER
+Ciências Humanas,Ciências Sociais (Integral),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Ciências Sociais (Noturno),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Comunicação Social - Mídia/Logia (Integral),HIS; MAT,450,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Dança (Integral) (A),HE; LPL,500,HE,LPL,MAT; HIST; GEO; INTER
+Ciências Humanas,Estudos Literários (Integral),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Filosofia (Integral),LPL,500,LPL,MAT; HIS,GEO; INTER
+Ciências Humanas,Geografia (Integral),LPL; GEO,400,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Geografia (Noturno),LPL; GEO,400,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,História (Integral),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Licenciatura em Letras - Português (Integral),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Licenciatura em Letras - Português (Noturno),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Linguística (Integral),LPL; HIS,500,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Música: Composição (Integral) (A),HE,-,HE,LPL,MAT; HIS; GEO; INTER
+Ciências Humanas,Música Erudita: Instrumentos (Integral) (A) (D),HE,-,HE,LPL,MAT; HIS; GEO; INTER
+Ciências Humanas,Música: Licenciatura (Integral) (A),HE,-,HE,LPL,MAT; HIS; GEO; INTER
+Ciências Humanas,Música Popular: Instrumentos (Integral) (A) (E),HE,-,HE,LPL,MAT; HIS; GEO; INTER
+Ciências Humanas,Música: Regência (Integral) (A),HE,-,HE,LPL,MAT; HIS; GEO; INTER
+Ciências Humanas,Pedagogia - Licenciatura (Integral),LPL; HIS,400,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Pedagogia - Licenciatura (Noturno),LPL; HIS,400,LPL; HIS; GEO,MAT,INTER
+Ciências Humanas,Relações Internacionais (Integral) (B),LPL; GEO,400,LPL; HIS; GEO,MAT,INTER
+Ciências Biológicas,Ciências Biológicas (Integral),QUI; BIO,450,BIO; INTER,LPL; MAT; QUI,-
+Ciências Biológicas,Ciências Biológicas - Licenciatura (Noturno),QUI; BIO,450,BIO; INTER,LPL; MAT; QUI,-
+Ciências Biológicas,Ciências do Esporte (Integral) (B),LPL; BIO,400,-,LPL; MAT; QUI; BIO,INTER
+Ciências Biológicas,Educação Física (Integral),LPL; BIO,450,LPL; BIO,INTER,MAT; QUI
+Ciências Biológicas,Educação Física (Noturno),LPL; BIO,450,LPL; BIO,INTER,MAT; QUI
+Ciências Biológicas,Enfermagem (Integral),LPL; BIO,450,LPL; MAT; BIO,FIS; QUI,HIS; GEO
+Ciências Biológicas,Farmácia (Integral),QUI; BIO,450,LPL; MAT; QUI; BIO,-,INTER
+Ciências Biológicas,Fonoaudiologia (Integral),LPL; BIO,450,LPL; BIO,MAT; QUI; INTER,-
+Ciências Biológicas,Medicina (Integral),LPL; BIO,600,LPL; BIO,MAT; QUI; INTER,-
+Ciências Biológicas,Nutrição (Integral) (B),LPL; BIO,450,LPL; BIO,MAT; QUI; INTER,-
+Ciências Biológicas,Odontologia (Integral) (F),QUI; BIO,400,LPL; BIO,MAT; QUI,INTER
+Ciências Exatas,Ciência da Computação (Noturno),MAT,500,MAT,LPL; FIS,QUI; INTER
+Ciências Exatas,Curso 51: Engenharia Física/ Física/ Física Médica e Biomédica/ Matemática/ Matemática Aplicada e Computacional (Integral) (C),MAT; FIS,450,MAT; FIS,LPL; QUI,INTER
+Ciências Exatas,Engenharia Agrícola (Integral),MAT; FIS,450,MAT; FIS,LPL; QUI,INTER
+Ciências Exatas,Engenharia Ambiental (Noturno) (G),LPL; MAT,500,LPL; MAT; QUI; FIS,-,INTER
+Ciências Exatas,Engenharia Civil (Integral),MAT,500,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia de Alimentos (Integral),MAT; FIS,450,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia de Alimentos (Noturno),MAT; FIS,450,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia de Computação (Integral),MAT,550,MAT,LPL; FIS,QUI; INTER
+Ciências Exatas,Engenharia de Controle e Automação (Noturno),MAT; FIS,500,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia de Manufatura (Integral) (B),MAT; FIS,450,LPL; MAT; FIS; QUI,-,INTER
+Ciências Exatas,Engenharia de Produção (Integral) (B),MAT; FIS,450,LPL; MAT; FIS; QUI,-,INTER
+Ciências Exatas,Engenharia de Telecomunicações (Integral) (G),MAT; FIS,450,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia de Transportes (Noturno) (G),MAT; FIS,400,MAT; FIS,LPL; INTER; QUI,-
+Ciências Exatas,Engenharia Elétrica (Integral),MAT; FIS,450,MAT; FIS,LPL,QUI; INTER
+Ciências Exatas,Engenharia Elétrica (Noturno),MAT; FIS,450,MAT; FIS,LPL,QUI; INTER
+Ciências Exatas,Engenharia Mecânica (Integral),MAT; FIS,500,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia Química (Integral),MAT; FIS,500,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Engenharia Química (Noturno),MAT; FIS,500,LPL; MAT; FIS,QUI,INTER
+Ciências Exatas,Estatística (Integral),LPL; MAT,500,LPL; MAT,-,FIS; QUI; INTER
+Ciências Exatas,Física - Licenciatura (Noturno),MAT; FIS,400,MAT; FIS,LPL; QUI,INTER
+Ciências Exatas,Geologia (Integral),MAT; QUI,450,LPL; MAT; FIS; QUI,-,INTER
+Ciências Exatas,Inteligência Artificial e Ciência de Dados (Integral) (B) (G),MAT,500,MAT,LPL; FIS,QUI; INTER
+Ciências Exatas,Licenciatura Integrada Química/Física (Noturno),LPL; MAT,400,-,LPL; MAT; INTER,QUI; FIS
+Ciências Exatas,Matemática - Licenciatura (Noturno),MAT; FIS,450,MAT; FIS,LPL,QUI; INTER
+Ciências Exatas,Química (Integral),QUI,450,LPL; MAT; FIS; QUI,-,INTER
+Ciências Exatas,Química Tecnológica (Noturno),QUI,450,LPL; MAT; FIS; QUI,-,INTER
+Ciências Exatas,Sistemas de Informação (Integral) (G),LPL; MAT,400,-,LPL; MAT,INTER; FIS; QUI
+Ciências Exatas,Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno) (G),LPL; MAT,350,-,LPL; MAT,INTER; FIS; QUI
