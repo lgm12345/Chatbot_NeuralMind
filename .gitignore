@@ -1,0 +1,14 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+
+# Ficheiros locais do ecossistema LlamaIndex / RAG
+.env
+*.log
+storage/
+.llama_index/
