@@ -1,21 +1,37 @@
-Quem é o reitor da unicamp?|Antonio José de Almeida Meirelles
-Quantas vagas regulares são distribuidas para ingresso nos cursos de graduação?|3340 vagas regulares são distribuídas para ingresso nos cursos de graduação.
-Quantas vagas serão distribuidas pelo enem?|314 vagas serão distribuídas pelo ENEM-Unicamp 2025.
-Quantas vagas serão oferecidas pelo vestibular indígena?|49 vagas serão oferecidas pelo Vestibular Indígena (VI) 2025.
-Quais os principais objetivos do vestibular da unicamp?|Classificar e selecionar candidatos(as) adequados(as) ao perfil de estudantes desejado pela Unicamp, verificar o domínio do conhecimento desenvolvido pelos(as) candidatos(as) nas diversas formas de educação do Ensino Médio, avaliar a aptidão e o potencial dos(as) candidatos(as) para o curso superior em que pretendem ingressar, e interagir com os sistemas de Ensino Fundamental e Médio e contribuir para o aprimoramento da educação básica.
-Qual o periodo de inscrição do vestibular?|01 a 30 de agosto de 2024
+Quantas vagas serão oferecidas ?|3358 vagas regulares são distribuídas para ingresso nos cursos de graduação.
+Quantas vagas serão distribuidas pelo enem?|De acordo com o edital fornecido, o ENEM‑Unicamp 2027 oferecerá 330 vagas regulares e mais 101 vagas adicionais, totalizando, 431 vagas
+Quantas vagas serão oferecidas pelo vestibular indígena?|Serão oferecidas 58 vagas pelo Vestibular Indígena 2027, além de 71 vagas adicionais previstas em edital específico.
+Quais os principais objetivos do vestibular da unicamp?|I. Classificar e selecionar candidatos(as) adequados(as) ao perfil de estudantes desejado pela Unicamp;  II. Verificar o domínio do conhecimento desenvolvido pelos(as) candidatos(as) nas diversas formas de educação do Ensino Médio;  III. Avaliar a aptidão e o potencial dos(as) candidatos(as) para o curso superior em que pretendem ingressar;  IV. Interagir com os sistemas de Ensino Fundamental e Médio e contribuir para o aprimoramento da educação básica
+Qual o periodo de inscrição do vestibular?|As inscrições para o Vestibular Unicamp 2027 serão realizadas de 03 a 31 de agosto de 2026, exclusivamente pela página da Comvest: www.comvest.unicamp.br.
 O candidato precisa levar documento para as provas?|Sim,o candidato precisa necessariamente levar documento para as provas
-Qual o valor da taxa de inscrição do VU 2025?|A Taxa de Inscrição para o VU 2025 será de R$ 210,00 (duzentos e dez reais)
+Qual o valor da taxa de inscrição do vestibular?|O valor da taxa de inscrição do vestibular (VU 2027) é R$ 230,00.
+É possível fazer o vestibular estando cursando o ensino fundamental? Não. O edital do VU 2027 estabelece que podem se inscrever apenas candidatos que estejam concluindo ou cursando o Ensino Médio (ou equivalente) ou que já possuam diploma de curso superior. Não há previsão para candidatos que estejam apenas no Ensino Fundamental
 Quantas questoes constituem a primeira fase?|A 1ª fase será constituída de uma única prova de Conhecimentos Gerais composta por 72 (setenta e duas) questões objetivas sobre as áreas do conhecimento desenvolvidas no Ensino Médio, incluindo questões interdisciplinares.
-Quando será realizada a 1 fase do VU 2025?|A 1ª fase do VU 2025 será realizada no dia 20 de outubro de 2024.
-Quando será realizada a 2 fase do VU 2025?|A 2ª fase do VU 2025 será realizada nos dias 01 e 02 de dezembro de 2024.
+Quando será realizada a 1 fase do vetibular da unicamp 2027|A primeira fase do Vestibular Unicamp 2027 será realizada em 18 de outubro de 2026.
+Quando será realizada a 2 fase do vestibular da unicamp 2027?A segunda fase do Vestibular Unicamp 2027 será realizada nos dias 29 e 30 de novembro de 2026.
 É possivel reverter o cancelamento de matricula?|Não é possivel reverter o cancelamento da matricula
-Qual o tempo maximo que um candidato terá para realizar a prova ?|O tempo máximo que um candidato terá para realizar a prova é de 5 horas.
-Qual o tempo minimo que um candidato tera para realizar a prova?|O tempo máximo que um candidato terá para realizar a prova é de 2 (duas) horas.
-É possivel estar matriculado em mais de uma instituição publica?|É vedada, por lei, a matrícula simultânea em mais de uma instituição pública brasileira de ensino superior federal, estadual ou municipal.
-O que acontece com o candidato convocado que não realizar sua matricula?|O candidato perde o direito à vaga para o curso qual foi convocado
-Quais as habilidades gerais avaliadas pelo vestibular da unicamp?|Identificar e reconhecer, inferir, analisar criticamente, comparar, formular hipóteses a partir de evidências e aplicar.
-Quais situações anulam a redação?|A redação pode ser anulada se o candidato abordar outro tema que não o da proposta escolhida, se não cumprir as tarefas solicitadas na proposta nem o gênero discursivo solicitado, ou se simplesmente reproduzir os textos da prova em forma de colagem, seja do enunciado ou da coletânea da proposta escolhida.
+Quantas vagas serao disponibilizadas para o curso de engenharia da computação ? Para Engenharia de Computação (Integral), serão disponibilizadas 63 vagas pelo Vestibular Unicamp (VU) 2027.
+Quantas vagas serao disponibilizadas para o curso de Ciências Sociais (Integral) ? Para Ciências Sociais (Integral), serão disponibilizadas 60 vagas regulares, sendo 46 vagas pelo Vestibular Unicamp (VU).
+Qual o tempo maximo que um candidato terá para realizar a prova ?|OO tempo máximo para a realização da prova é de 5 horas em cada dia de exame. Para candidatos com solicitação de recurso específico deferida, pode haver tempo adicional de até 20% do tempo regular.
+Qual o tempo minimo que um candidato tera para realizar a prova?|O tempo mínimo de realização da prova é de 2 horas, tanto na 1ª fase quanto em cada dia de provas da 2ª fase.
+É possivel estar matriculado em mais de uma instituição publica?|Não. É vedada por lei a matrícula simultânea em mais de uma instituição pública brasileira de ensino superior, seja federal, estadual ou municipal. Caso seja constatada matrícula simultânea, a Unicamp adotará os procedimentos previstos na Lei Federal nº 12.089, de 11/11/2009.
+O que acontece com o candidato convocado que não realizar sua matricula?|Se o(a) candidato(a) convocado(a) não realizar a matrícula nos dias e horários estipulados, perde o direito à vaga para a qual foi convocado(a). Se tiver sido convocado(a) para a 2ª opção e não fizer a matrícula, perde irrevogavelmente a vaga na 2ª opção, mas continua concorrendo a uma vaga no curso de 1ª opção. Além disso, se o(a) candidato(a) for convocado(a) para o mesmo curso em qualquer sistema de ingresso da Unicamp e não realizar a matrícula, seu nome será excluído das chamadas dos outros sistemas. A matrícula também será cancelada, com perda da vaga, caso o(a) candidato(a) não envie, por upload, a documentação exigida para matrícula.
+Quais as habilidades gerais avaliadas pelo vestibular da unicamp?|As habilidades gerais avaliadas pelo Vestibular Unicamp são:
+- Identificar e reconhecer;
+- Inferir;
+- Analisar criticamente;
+- Comparar;
+- Formular hipóteses a partir de evidências;
+- Aplicar.
+Na segunda fase, além dessas mesmas habilidades gerais, espera-se que o candidato elabore respostas em texto coeso e claro, com precisão de conceitos e conhecimentos. Também pode ser avaliado quanto à capacidade de:
+- Resolver problemas propostos;
+- Relatar procedimentos utilizados;
+- Estabelecer e explicitar relações entre informações, conceitos, fenômenos, contextos, problemas e pontos de vista a partir de evidências logicamente construídas;
+- Explicar conceitos, fenômenos, contextos e problemas;
+- Indicar as evidências nas quais se baseou para produzir as respostas solicitadas;
+- Produzir textos curtos por meio de recursos como paráfrases e sínteses;
+- Argumentar em defesa de uma tese ou ponto de vista, de forma consistente com os insumos da prova e os conhecimentos de cada área.
+Quais situações anulam a redação?|A redação pode ser anulada nas seguintes situações: 1. Se o candidato abordar outro tema que não o da proposta escolhida; 2. Se o candidato não cumprir as tarefas solicitadas na proposta nem cumprir o gênero discursivo solicitado nela; 3. Se o candidato simplesmente reproduzir os textos da prova, ou partes deles, em forma de colagem, sejam do enunciado, sejam da coletânea da proposta escolhida.
 Quais as habilidades avaliadas na prova de lingua portuguesa?|As habilidades avaliadas na prova de Língua Portuguesa incluem a capacidade de reconhecer a língua como fenômeno sociocultural, compreender práticas de linguagem em diversos contextos, interpretar criticamente textos de diferentes gêneros e mídias, analisar estruturas linguísticas, reconhecer normas linguísticas e variedades da língua, além de ser capaz de ler, interpretar e reconstruir o sentido de textos, considerando diversos aspectos socioeconômicos, ideológicos e culturais envolvidos nos discursos.
 Quais as habilidades avaliadas na prova de redação?|A prova de Redação avalia habilidades de leitura e escrita dos candidatos na produção de textos pertencentes a diferentes gêneros discursivos.
 Quais as habilidades avaliadas na prova de literatura da lingua portuguesa?|A capacidade de leitura, compreensão analítica e interpretação crítica de textos produzidos nas tradições das literaturas de língua portuguesa.
@@ -31,12 +47,132 @@ Quais as habilidades avaliadas na prova de Filosofia?|Analisar textos filosófic
 Quais as habilidades avaliadas na prova de lingua inglesa?|As habilidades avaliadas na prova de língua inglesa incluem ler, analisar e interpretar informações em textos variados em inglês, mobilizar conhecimentos sistêmicos para construir significados a partir da leitura reflexiva e crítica, articular conhecimentos diversos a partir de manifestações artístico-culturais em inglês, elaborar respostas escritas com base nas informações do conteúdo programático de língua inglesa e articular conhecimentos de diversas áreas sob uma perspectiva interdisciplinar.
 Quais as habilidades avalidas na prova de ciências biologicas?|Na prova de Ciências Biológicas, as habilidades avaliadas incluem o domínio do conteúdo programático do Ensino Médio relativo à Biologia, a capacidade de correlacionar e integrar conhecimentos de diferentes áreas, a articulação do conteúdo programático com Temas Contemporâneos Transversais, a descrição, análise e relação de conceitos básicos, a interpretação de informações apresentadas, a construção, análise e interpretação de gráficos, tabelas e imagens, a atitude crítica em relação a material extracurricular, e a consciência da evolução contínua da ciência e sua interação com outras áreas do conhecimento.
 Quais as habilidades avaliadas na prova de Fisica?|Ler, analisar, interpretar e compreender informações e conceitos em textos variados, inclusive expressões matemáticas, análise dimensional, ordem de grandezas, aproximações, tabelas, gráficos, esquemas e imagens; Resolver problemas de Física que envolvam: contextualização de fenômenos naturais e experimentos científicos; aplicação de conceitos físicos a situações do cotidiano, inclusive a apropriada estimativa de valores de grandezas envolvidas; manipulações matemáticas; Analisar e discutir modelos, teorias e leis propostos em diferentes épocas e culturas para comparar distintas explicações sobre os fenômenos da natureza, como a formação e a evolução da Terra e do Universo, com as teorias científicas aceitas atualmente; Descrever, analisar e relacionar conceitos básicos de Física; Elaborar respostas escritas que envolvam desenvolvimento do problema proposto com o correto conceito físico, a pertinente manipulação matemática e o devido uso de grandezas e de unidades físicas.
-Quais os conteudos programados para a prova de Fisica?|Fundamentos da Física,Mecânica,Astronomia,Calorimetria e termodinâmica,Óptica e ondas,Eletricidade e magnetismo
-Quais as habilidades avalidas na prova de Quimica?|Observar e descrever fenômenos, utilizar modelos para interpretar fenômenos, usar aparelhagem básica no manuseio de materiais, obter informações a respeito de transformações, ler, analisar, comparar e interpretar informações em textos variados, resolver problemas de Química contextualizando fenômenos e processos científicos, aplicar conceitos e informações a situações, descrever, analisar e relacionar conceitos fundamentais de Química, elaborar respostas escritas que envolvam descrição, exposição e argumentação crítica com base no conteúdo programático de Química.
-Quais as habilidades avaliadas na prova de Quimica?|Materiais,Gases,Estrutura atômica e classificação periódica,Ligação química,Transformações dos materiais,Cinética química,Energia nas reações químicas,Equilíbrio químico,Eletroquímica,Química de compostos orgânicos,O mundo em transformação
+Quais os conteudos da prova de quimica ?| Os conteúdos programáticos de Química disponíveis no edital são:
+Materiais
+- Ocorrência na natureza, processos de purificação, caracterização e identificação de substâncias, mudanças de estado.
+- Símbolos e fórmulas na representação de átomos, moléculas e íons.
+- Massas atômicas, massas molares e quantidade de substância.
+Gases
+- Equação geral dos gases ideais, leis de Boyle e de Gay-Lussac.
+- Princípio de Avogadro.
+- Gases: energia cinética média.
+- Misturas gasosas, pressão parcial e lei de Dalton.
+- Difusão gasosa, noções de gases reais e liquefação.
+- Líquidos e sólidos.
+- Caracterização dos estados líquido e sólido e pressão de vapor.
+- Líquidos (soluções) eletrolíticos e não eletrolíticos: ionização (dissociação), condutibilidade elétrica e propriedades coligativas.
+- Expressões de concentração: porcentagem, fração em massa, fração em mol, massa/volume, mol/volume, mol/quilograma.
+- Estado coloidal.
+Estrutura atômica e classificação periódica
+- Subpartículas atômicas, níveis de energia e distribuição eletrônica, número atômico, número de massa, isótopos, energia de ionização, afinidade eletrônica e eletronegatividade.
+- Correlações entre propriedades das substâncias químicas e posição dos elementos na classificação periódica.
+- Radioatividade, radioisótopos: equações químicas e cinética de decaimento.
+Ligação química
+- Modelo iônico, covalente e metálico.
+- Ligação química e propriedades das substâncias.
+- Polaridade, restrita a moléculas mais simples, como água, dióxido de carbono, amônia, cloreto de sódio e metano.
+- Interações intermoleculares: interações de Van der Waals e ligação de hidrogênio.
+Transformações dos materiais
+- Conservação de átomos e de cargas nas reações químicas.
+- Cálculos estequiométricos: relações ponderais e volumétricas nas reações químicas.
+Cinética química
+- Reações químicas.
+- Colisões efetivas.
+- Velocidade de reação e energia de ativação.
+- Efeito do estado de agregação, da concentração, da pressão, da temperatura e do catalisador na velocidade das transformações das substâncias.
+Energia nas reações químicas
+- Reações exotérmicas e endotérmicas e cálculos de variação de entalpia.
+- Princípio da conservação da energia, lei de Hess e cálculos envolvendo energia de ligação.
+Equilíbrio químico
+- Sistemas em equilíbrio.
+- Constante de equilíbrio.
+- Princípio de Le Chatelier.
+- Conceitos ácido-base de Arrhenius, Bronsted e Lewis.
+- Equilíbrios envolvendo ácidos e bases, hidrólise e solubilidade.
+- pH de soluções.
+Eletroquímica
+- Processos de oxidação e redução: equacionamento, número de oxidação e identificação de espécies redutoras e oxidantes.
+- Aplicação da tabela de potenciais padrão de eletrodo e pilhas.
+- Leis de Faraday.
+- Eletrólise de soluções aquosas e de compostos fundidos.
+Química de compostos orgânicos
+- Fórmulas moleculares, estruturais e de Lewis, cadeias carbônicas, ligações e isomeria.
+- Reconhecimento de funções orgânicas: hidrocarbonetos, compostos halogenados, alcoóis, fenóis, éteres, aldeídos, cetonas, ácidos carboxílicos, aminas e amidas.
+- Nomenclatura, obtenção e propriedades dos compostos mais simples e representativos.
+Quais os conteudos da prova de fisica? |Fundamentos da Física
+- Grandezas físicas e suas medidas.
+- Relações matemáticas entre grandezas escalares e vetoriais.
+- Representação gráfica de uma relação funcional entre duas grandezas.
+- Estimativa de valores.
+Mecânica
+- Cinemática do movimento em uma e duas dimensões.
+- Leis de Newton.
+- Força de atrito.
+- Peso de um corpo e aceleração da gravidade.
+- Momento de uma força ou torque. Equilíbrio estático e dinâmico.
+- Lei da gravitação universal de Newton e sua verificação experimental, sistema solar, leis de Kepler.
+- Quantidade de movimento (momento linear): variação e conservação.
+- Trabalho e energia cinética. Energia potencial elástica e gravitacional.
+- Potência.
+- Hidrostática.
+Astronomia
+- Forma, estrutura e movimentos da Terra.
+- Características do Sol, Terra e Lua.
+- Planetas do sistema solar: movimento orbital em torno do Sol.
+- Composição, estrutura e localização do sistema solar no Universo.
+- Estrelas e evolução estelar.
+Calorimetria e termodinâmica
+- Temperatura e equilíbrio térmico.
+- Lei Zero da Termodinâmica.
+- Primeira Lei da Termodinâmica.
+- Trocas de calor e propriedades térmicas da matéria.
+- Gases perfeitos.
+- Trabalho realizado por um gás em expansão.
+- Transições de fase, calor latente.
+Óptica e ondas
+- Ondas planas: comprimento de onda, frequência e velocidade de propagação.
+- Ondas mecânicas: ondas numa corda e ondas sonoras.
+- Polarização, interferência e difração.
+- Ondas esféricas.
+- Espelhos planos e esféricos.
+- Dispersão da luz, índice de refração, leis da refração, reflexão total.
+- Prismas, lentes e instrumentos ópticos.
+- Caráter ondulatório da luz. Espectro eletromagnético.
+- Óptica da Visão.
+Eletricidade e magnetismo
+- Campos e forças eletromagnéticas.
+- Potencial eletrostático e diferença de potencial.
+- Corrente elétrica, associação de resistores em série e em paralelo e potência elétrica.
+- Leis de Kirchhoff e força eletromotriz.
+- Capacitores, dielétricos e associação em série e em paralelo.
+- Campo magnético gerado por correntes e por ímãs.
+- Força sobre carga elétrica em movimento na presença de campo magnético.
+- Indução eletromagnética: fluxo magnético e a lei de indução de Faraday, lei de Lenz.
+Quais sao os conteudos da prova de lingua portuguesa?|Os conteúdos programáticos de Língua Portuguesa disponíveis no edital são:
+1. O texto e seu funcionamento
+- Caracterização, produção e circulação de diferentes gêneros discursivos;
+- Recursos coesivos que contribuem para a coerência, continuidade e progressão textual;
+- Interação entre texto verbal e não verbal.
+2. Processos de significação
+- Estabelecimento de relações lógico-discursivas;
+- Intertextualidade e interdiscursividade;
+- Efeitos de sentido decorrentes de usos expressivos da língua.
+3. Funcionamento social da língua
+- Variação linguística em diferentes contextos de circulação dos discursos;
+- Usos linguísticos na norma culta e em outras variedades;
+- Registros de formalidade e informalidade, e estilos linguísticos.
+4. Sintaxe da língua portuguesa
+- Elementos sintáticos usados na construção de textos;
+- Efeitos de sentido acarretados pela ordem dos constituintes da sentença;
+- Processos de coordenação e subordinação entre orações.
+5. Morfologia da língua portuguesa
+- Elementos constituintes da estrutura do vocábulo;
+- Processos de formação de palavra;
+- Efeitos semânticos e expressivos produzidos pelo uso das diferentes classes morfológicas.
+6. Elementos de fonologia da língua portuguesa
+- Efeitos de sentido produzidos por recursos fonético-fonológicos;
+- Relação entre oralidade e escrita.
 Onde será realizada a prova de habilidades especificas para arquitetura e urbanismo?|A prova de Habilidades Específicas para Arquitetura e Urbanismo será realizada na Faculdade de Engenharia Civil Arquitetura e Urbanismo, localizada no campus universitário Zeferino Vaz em Campinas – SP.
-Quantos pontos vale a prova especifica de arquitetura e urbanismo?|A prova específica de Arquitetura e Urbanismo vale 48 pontos.
-Cite os materiais que o candidato deve levar para a prova especifica de arquitetura e urbanismo|Lápis ou lapiseira com grafites macias: B, 2B, 6B,Canetas hidrográficas coloridas,Caixa de lápis de cor,Compasso,Fita adesiva,Cola bastão,Tesoura pequena,Borracha
 Quando serão realizadas as provas especificas do curso de Artes Cênicas?|As provas específicas do curso de Artes Cênicas serão 11 a 13 de dezembro de 2024
 Qual a bibliografia exigida na prova teorica do curso de Artes Cênicas?|ABREU, Luis Alberto de. A Restauração da Narrativa. São Paulo, Núcleo de Dramaturgia Sesi, 2016. PEIXOTO, Fernando. O que é Teatro. NAVARRO, Gracia. Teatro de quermesse.
 Liste as peças para a prova de palco|Anton Tchekhov – Tio Vânia, Arístides Vargas – Flores arrancadas à neve, Bernard-Marie Koltès – Roberto Zucco, Bertolt Brecht – Mãe Coragem e seus filhos, Dione Carlos – Kaim, Emilio Carballido – Orinoco, Eugene Ionesco – A Cantora Careca, Federico Garcia Lorca – Bodas de sangue, Gianfrancesco Guarnieri – Ponto de Partida, Grace Passô – Vaga Carne; Amores surdos, Jhonny Salaberg – Buraquinhos ou o vento é inimigo do picumã, Michelle Ferreira – Os adultos estão na sala, Molière – O Burguês Fidalgo, Nelson Rodrigues – A Falecida, Newton Moreno – Agreste, Oswald de Andrade – O Rei da Vela, Plínio Marcos – Dois perdidos numa noite suja, Samuel Beckett – Fim de jogo, Sófocles – Antígona, William Shakespeare – A tempestade.
@@ -44,3 +180,69 @@ Quais as habilidades especificas para o curso de Artes Visuais?História da Arte
 Quais os criterios de avaliação da prova especifica de Danca?|Os critérios de avaliação da prova específica de Dança são: Atitude, Domínio no uso do espaço/tempo, Integração, Fluidez, Persistência no desempenho das ações corporais e Inventividade.
 Quais os instrumentos do curso de musica popular?|Violão, saxofone, guitarra, contrabaixo, piano, voz e bateria.
 Quais são os cursos dea area de ciencias biologicas/saude?|Ciências Biológicas (Integral),Ciências Biológicas - Licenciatura (Noturno),Ciências do Esporte (Integral),Educação Física (Integral),Educação Física (Noturno),Enfermagem (Integral),Farmácia (Integral),Fonoaudiologia (Integral),Medicina (Integral),Nutrição (Integral),Odontologia (Integral)
+Quais os cursos que tem peso 3 em fisica? - Curso 51: Engenharia Física / Física / Física Médica e Biomédica / Matemática / Matemática Aplicada e Computacional (Integral) (C)
+- Engenharia Agrícola (Integral)
+- Engenharia Ambiental (Noturno) (G)
+- Engenharia Civil (Integral)
+- Engenharia Elétrica (Integral)
+- Engenharia Elétrica (Noturno)
+- Engenharia Mecânica (Integral)
+- Engenharia Química (Integral)
+- Engenharia Química (Noturno)
+- Engenharia de Alimentos (Integral)
+- Engenharia de Alimentos (Noturno)
+- Engenharia de Controle e Automação (Noturno)
+- Engenharia de Manufatura (Integral) (B)
+- Engenharia de Produção (Integral) (B)
+- Engenharia de Telecomunicações (Integral) (G)
+- Engenharia de Transportes (Noturno) (G)
+- Física — Licenciatura (Noturno)
+- Geologia (Integral)
+- Matemática — Licenciatura (Noturno)
+- Química (Integral)
+- Química Tecnológica (Noturno)
+Quais os cursos possuem peso 3 em quimica ? - Engenharia Ambiental (Noturno) (G)
+- Engenharia de Manufatura (Integral) (B)
+- Engenharia de Produção (Integral) (B)
+- Farmácia (Integral)
+- Geologia (Integral)
+- Química (Integral)
+- Química Tecnológica (Noturno)
+Quais são os cursos da área de Ciências Biologicas?
+-Ciências do Esporte (Integral) (B)
+-Educação Física (Integral)
+-Educação Física (Noturno)
+-Enfermagem (Integral)
+-Farmácia (Integral)
+-Fonoaudiologia (Integral)
+-Medicina (Integral)
+-Nutrição (Integral) (B)
+-Odontologia (Integral) (F)
+Quais os cursos da area de Ciências Exatas ?
+Os cursos da área de Ciências Exatas são:
+
+Ciência da Computação (Noturno)
+Engenharia Física / Física / Física Médica e Biomédica / Matemática / Matemática Aplicada e Computacional (Integral)
+Engenharia Agrícola (Integral)
+Engenharia Ambiental (Noturno)
+Engenharia Civil (Integral)
+Engenharia Elétrica (Integral e Noturno)
+Engenharia Mecânica (Integral)
+Engenharia Química (Integral e Noturno)
+Engenharia de Alimentos (Integral e Noturno)
+Engenharia de Computação (Integral)
+Engenharia de Controle e Automação (Noturno)
+Engenharia de Manufatura (Integral)
+Engenharia de Produção (Integral)
+Engenharia de Telecomunicações (Integral)
+Engenharia de Transportes (Noturno)
+Estatística (Integral)
+Física – Licenciatura (Noturno)
+Geologia (Integral)
+Inteligência Artificial e Ciência de Dados (Integral)
+Licenciatura Integrada Química/Física (Noturno)
+Matemática – Licenciatura (Noturno)
+Química (Integral)
+Química Tecnológica (Noturno)
+Sistemas de Informação (Integral)
+Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno)
